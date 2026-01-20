@@ -1,6 +1,9 @@
 <h1 font-size:40px align="center">N-CORE: N-View Consistency Regularization for Disentangled Representation Learning in Nonverbal Vocalizations</h2>
 <h3 font-size:40px align="center">Siddhant Bikram Shah and Kristina T. Johnson</h3>
 
+<p align="center">
+  <img src="N-CORE.png" />
+</p>
 
 This is the code repository for our paper **<a href="https://aclanthology.org/2025.emnlp-main.1693/">N-CORE: N-View Consistency Regularization for Disentangled Representation Learning in Nonverbal Vocalizations**</a> published at EMNLP 2025. 
 
