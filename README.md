@@ -27,20 +27,6 @@ N-CORE/
 ├── speaker_classification.py # Main script for speaker classification
 ```
 
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-repo/ncore.git
-cd ncore
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Optional: Install pyworld for enhanced F0 modification
-pip install pyworld
-```
-
 ## Usage
 
 ### Emotion Classification
